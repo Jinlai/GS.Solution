@@ -1,13 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{4CE31DBB-C79A-405A-A741-1E8D5CD71619}"
-	ProjectSection(SolutionItems) = preProject
-		GS.Solution.Templates\ctrip-logo.ico = GS.Solution.Templates\ctrip-logo.ico
-		GS.Solution.Templates\GS.Solution.Template.config = GS.Solution.Templates\GS.Solution.Template.config
-		GS.Solution.Templates\GS.Solution.Template.vstemplate = GS.Solution.Templates\GS.Solution.Template.vstemplate
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VsExtensions", "VsExtensions", "{3B494940-DE7A-48FB-8B53-B36CD1433872}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TfsExtensions", "TfsExtensions", "{01879820-60F5-41DC-9A54-9A63F2C1892F}"
@@ -17,6 +10,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GS.Solution.TfsExtensions", "GS.Solution.TfsExtensions\GS.Solution.TfsExtensions.csproj", "{4EA52B7C-9EF8-46AF-846E-21FB27A8F8AD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GS.Solution.VsExtensions", "GS.Solution.VsExtensions\GS.Solution.VsExtensions.csproj", "{73C67E54-6177-4F19-9C99-70E06FDB7135}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{84B20748-34C3-4CBC-9F32-B1ADBAB8E81C}"
+	ProjectSection(SolutionItems) = preProject
+		GS.Solution.Templates\ctrip-logo.ico = GS.Solution.Templates\ctrip-logo.ico
+		GS.Solution.Templates\GS.Solution.Templates.vstemplate = GS.Solution.Templates\GS.Solution.Templates.vstemplate
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
