@@ -1,0 +1,4 @@
+D:\Projects\GS.Solution\GS.Solution.TfsExtensions.Core\bin\Debug\GS.Solution.TfsExtensions.Core.dll
+D:\Projects\GS.Solution\GS.Solution.TfsExtensions.Core\bin\Debug\GS.Solution.TfsExtensions.Core.pdb
+D:\Projects\GS.Solution\GS.Solution.TfsExtensions.Core\obj\Debug\GS.Solution.TfsExtensions.Core.dll
+D:\Projects\GS.Solution\GS.Solution.TfsExtensions.Core\obj\Debug\GS.Solution.TfsExtensions.Core.pdb

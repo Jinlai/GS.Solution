@@ -1,0 +1,7 @@
+D:\Projects\GS.Solution\GS.Solution.TfsExtensions\bin\Debug\GS.Solution.TfsExtensions.exe
+D:\Projects\GS.Solution\GS.Solution.TfsExtensions\bin\Debug\GS.Solution.TfsExtensions.pdb
+D:\Projects\GS.Solution\GS.Solution.TfsExtensions\bin\Debug\GS.Solution.TfsExtensions.Core.dll
+D:\Projects\GS.Solution\GS.Solution.TfsExtensions\bin\Debug\GS.Solution.TfsExtensions.Core.pdb
+D:\Projects\GS.Solution\GS.Solution.TfsExtensions\obj\x86\Debug\GS.Solution.TfsExtensions.csprojResolveAssemblyReference.cache
+D:\Projects\GS.Solution\GS.Solution.TfsExtensions\obj\x86\Debug\GS.Solution.TfsExtensions.exe
+D:\Projects\GS.Solution\GS.Solution.TfsExtensions\obj\x86\Debug\GS.Solution.TfsExtensions.pdb
