@@ -4,9 +4,3 @@ d:\Users\zhangjinlai\Desktop\GS.Solution.VsExtensions\GS.Solution.VsExtensions\b
 d:\Users\zhangjinlai\Desktop\GS.Solution.VsExtensions\GS.Solution.VsExtensions\obj\Debug\GS.Solution.VsExtensions.csproj.ResolveComReference.cache
 d:\Users\zhangjinlai\Desktop\GS.Solution.VsExtensions\GS.Solution.VsExtensions\obj\Debug\GS.Solution.VsExtensions.dll
 d:\Users\zhangjinlai\Desktop\GS.Solution.VsExtensions\GS.Solution.VsExtensions\obj\Debug\GS.Solution.VsExtensions.pdb
-D:\Projects\GS.Solution\GS.Solution.VsExtensions\bin\Debug\GS.Solution.VsExtensions.dll
-D:\Projects\GS.Solution\GS.Solution.VsExtensions\bin\Debug\GS.Solution.VsExtensions.pdb
-D:\Projects\GS.Solution\GS.Solution.VsExtensions\bin\Debug\GS.Solution.VsExtensions.xml
-D:\Projects\GS.Solution\GS.Solution.VsExtensions\obj\Debug\GS.Solution.VsExtensions.csproj.ResolveComReference.cache
-D:\Projects\GS.Solution\GS.Solution.VsExtensions\obj\Debug\GS.Solution.VsExtensions.dll
-D:\Projects\GS.Solution\GS.Solution.VsExtensions\obj\Debug\GS.Solution.VsExtensions.pdb
