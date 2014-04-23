@@ -28,7 +28,7 @@
             Implements the OnDisconnection method of the IDTExtensibility2 interface. Receives notification that the Add-in is being unloaded.
             </summary>
             <param name="disconnectMode">Describes how the Add-in is being unloaded.</param>
-            <param name="custom">Array of parameters that are host application specific.</param>        
+            <param name="custom">Array of parameters that are host application specific.</param>
         </member>
         <member name="M:GS.Solution.VsExtensions.Connect.OnAddInsUpdate(System.Array@)">
             <summary>
@@ -46,7 +46,7 @@
             <summary>
             Implements the OnBeginShutdown method of the IDTExtensibility2 interface. Receives notification that the host application is being unloaded.
             </summary>
-            <param name="custom">Array of parameters that are host application specific.</param>        
+            <param name="custom">Array of parameters that are host application specific.</param>
         </member>
     </members>
 </doc>

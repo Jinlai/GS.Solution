@@ -1,6 +1,0 @@
-d:\Users\zhangjinlai\Desktop\GS.Solution.VsExtensions\GS.Solution.VsExtensions\bin\Debug\GS.Solution.VsExtensions.dll
-d:\Users\zhangjinlai\Desktop\GS.Solution.VsExtensions\GS.Solution.VsExtensions\bin\Debug\GS.Solution.VsExtensions.pdb
-d:\Users\zhangjinlai\Desktop\GS.Solution.VsExtensions\GS.Solution.VsExtensions\bin\Debug\GS.Solution.VsExtensions.xml
-d:\Users\zhangjinlai\Desktop\GS.Solution.VsExtensions\GS.Solution.VsExtensions\obj\Debug\GS.Solution.VsExtensions.csproj.ResolveComReference.cache
-d:\Users\zhangjinlai\Desktop\GS.Solution.VsExtensions\GS.Solution.VsExtensions\obj\Debug\GS.Solution.VsExtensions.dll
-d:\Users\zhangjinlai\Desktop\GS.Solution.VsExtensions\GS.Solution.VsExtensions\obj\Debug\GS.Solution.VsExtensions.pdb
