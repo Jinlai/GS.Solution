@@ -12,14 +12,8 @@ namespace GS.Solution.VsExtensions.OutputWindowPane
 {
     using EnvDTE;
 
-    /// <summary>
-    /// 
-    /// </summary>
     public static class OutputWindowPaneExtensions
     {
-        /// <summary>
-        /// 
-        /// </summary>
         public static void OutputLine(this OutputWindowPane outputWindowPane, string text)
         {
             outputWindowPane.OutputString(String.Format("{0}\r\n", text));

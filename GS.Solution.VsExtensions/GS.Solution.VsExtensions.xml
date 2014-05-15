@@ -4,36 +4,6 @@
         <name>GS.Solution.VsExtensions</name>
     </assembly>
     <members>
-        <member name="T:GS.Solution.VsExtensions.Project.ProjectOperator">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="M:GS.Solution.VsExtensions.Project.ProjectOperator.Add(EnvDTE100.Solution4,System.String,System.String)">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="T:GS.Solution.VsExtensions.OutputWindowPane.OutputWindowPaneProvider">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="M:GS.Solution.VsExtensions.OutputWindowPane.OutputWindowPaneProvider.GetOutputWindowPane(EnvDTE80.DTE2)">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="T:GS.Solution.VsExtensions.OutputWindowPane.OutputWindowPaneExtensions">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="M:GS.Solution.VsExtensions.OutputWindowPane.OutputWindowPaneExtensions.OutputLine(EnvDTE.OutputWindowPane,System.String)">
-            <summary>
-            
-            </summary>
-        </member>
         <member name="T:GS.Solution.VsExtensions.Connect">
             <summary>
             The object for implementing an Add-in.
@@ -77,36 +47,6 @@
             Implements the OnBeginShutdown method of the IDTExtensibility2 interface. Receives notification that the host application is being unloaded.
             </summary>
             <param name="custom">Array of parameters that are host application specific.</param>
-        </member>
-        <member name="T:GS.Solution.VsExtensions.Constants">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="F:GS.Solution.VsExtensions.Constants.ClassLibraryProjectTemplate">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="F:GS.Solution.VsExtensions.Constants.EmptyMvcWebApplicationProjectTemplatev3">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="T:GS.Solution.VsExtensions.Initialization.Bootstrap">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="M:GS.Solution.VsExtensions.Initialization.Bootstrap.#ctor(EnvDTE80.DTE2,EnvDTE.AddIn)">
-            <summary>
-            
-            </summary>        
-        </member>
-        <member name="M:GS.Solution.VsExtensions.Initialization.Bootstrap.Run">
-            <summary>
-            
-            </summary>
         </member>
     </members>
 </doc>

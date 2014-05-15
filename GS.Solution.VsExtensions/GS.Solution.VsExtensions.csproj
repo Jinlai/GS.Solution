@@ -59,6 +59,8 @@
     <Compile Include="OutputWindowPane\OutputWindowPaneExtensions.cs" />
     <Compile Include="OutputWindowPane\OutputWindowPaneProvider.cs" />
     <Compile Include="Project\ProjectOperator.cs" />
+    <Compile Include="Project\ProjectType.cs" />
+    <Compile Include="Solution\SolutionLoader.cs" />
   </ItemGroup>
   <ItemGroup>
     <COMReference Include="EnvDTE">
@@ -119,9 +121,7 @@
   <ItemGroup>
     <Content Include="GS.Solution.VsExtensions.AddIn" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Solution\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSHARP.Targets" />
   <PropertyGroup>
     <PreBuildEvent>
