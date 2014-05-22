@@ -13,9 +13,7 @@ namespace GS.Solution.TfsExtensions
     {
         static void Main(string[] args)
         {
-            //weekend/Dev/Code/WeekendSite_GS13029B1
-
-            var tfsUri = new Uri("http://192.168.83.70:8080/tfs");
+            var tfsUri = new Uri("http://server/tfs");
             var tfsConfigurationServer = TfsConfigurationServerFactory.GetConfigurationServer(tfsUri);
 
             //Travelinfo
